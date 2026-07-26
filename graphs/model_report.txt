@@ -1,0 +1,30 @@
+============================================================
+ECOPACKAI - MODEL REPORT
+============================================================
+
+Dataset Statistics:
+  - Total Materials: 807
+  - Material Types: 6
+  - Industries: 9
+  - Features Used: 5
+
+Model Performance (Best Models):
+  - Cost Prediction:     R2 = 1.0000
+  - CO2 Prediction:      R2 = -0.0059
+  - Suitability:         R2 = 0.9433
+
+Average Sustainability Scores:
+  - Biodegradability:    49.46%
+  - Recyclability:       49.82%
+  - CO2 Emission:        52.20%
+
+Generated Graphs (saved in 'graphs/' folder):
+  - 1. model_performance_comparison.png
+  - 2. actual_vs_predicted.png
+  - 3. feature_importance.png
+  - 4. error_distribution.png
+  - 5. material_distribution.png
+  - 6. sustainability_distribution.png
+  - 7. correlation_heatmap.png
+
+============================================================
